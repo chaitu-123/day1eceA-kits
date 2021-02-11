@@ -2,7 +2,7 @@
 Day1 github workshop for ece A section in kits
 ## basic linux commands
 - pwd
-- cd
+- cd path
 - ls
 - ls -a
 - mkdir foldername
